@@ -77,19 +77,11 @@ int main(void) {
 ### **Summary**
 This program initializes the STM32 microcontroller, sets up GPIO **PA5** as an output, and continuously toggles it every 500ms to make the LED blink.
 
-Would you like any modifications, such as adding button control or implementing PWM for brightness adjustment?
-
-
-
-
 
 ---
 
 ### GPIO
 
-
-
-Of course! Let's break down the **GPIO (General-Purpose Input/Output) configuration** for STM32 microcontrollers step by step.
 
 ### **1. Understanding GPIO in STM32**
 - GPIO pins are versatile and can be configured as **inputs**, **outputs**, **analog**, or for **alternate functions** (such as communication interfaces like SPI, I2C, UART).
